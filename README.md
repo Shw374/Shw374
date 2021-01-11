@@ -1,8 +1,7 @@
-### Hi there 👋
-
+![README](https://user-images.githubusercontent.com/57098154/104196349-adca6380-5449-11eb-8a9a-7878808c2e6c.gif)
 <!--
 **Shw374/Shw374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
