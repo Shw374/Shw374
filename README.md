@@ -51,14 +51,10 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- ### 🌱 Contributions -->
+### 🌱 Contributions
 
-<!-- You can use the GitHub Graph plugin -->
-<!-- 
-<p align="center">
-  [![Shweta's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shw374&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
--->
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shw374&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ### 📫 Let's Connect!
